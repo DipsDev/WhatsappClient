@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Codenext";
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("CodeNext-ExtraBold.woff2") format("woff2"),
+    url("CodeNext-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Codenext";
+  font-style: italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url("CodeNext-ExtraBoldItalic.woff2") format("woff2"),
+    url("CodeNext-ExtraBoldItalic.woff") format("woff");
+}
